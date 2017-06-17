@@ -1,5 +1,5 @@
 """
-File: gov-bills-scraper.py
+File: stock_scraper.py
 Author: Zachary King
 Description: A web scraper that retrieves the 
 	stock value for a given list of companies 
